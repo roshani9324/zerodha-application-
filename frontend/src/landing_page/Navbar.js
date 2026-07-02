@@ -58,7 +58,8 @@ function Navbar() {
                 <Link class="nav-link active" to="/dashboard">
                   <button
                     onClick={() => {
-                      window.location.href = "http://localhost:3001";
+                      window.location.href =
+                        "https://zerodha-application.vercel.app/dashboard";
                     }}
                   >
                     Dashboard
