@@ -342,13 +342,13 @@ export default function Signup() {
           />
           <label htmlFor="agree" style={styles.checkLabel}>
             I am also satisfied with{" "}
-            <a href="#" style={styles.link}>
+            <a href="/" style={styles.link}>
               Terms & Conditions
-            </a>{" "}
-            and{" "}
-            <a href="#" style={styles.link}>
+            </a>
+            and
+            <a href="/" style={styles.link}>
               Privacy Policy
-            </a>{" "}
+            </a>
           </label>
         </div>
 
